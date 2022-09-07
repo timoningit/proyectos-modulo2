@@ -1,0 +1,42 @@
+[
+    {
+    "nombre": "Maria",
+    "apellido": "Mendez",
+    "edad": 61,
+    "precioAciento": 1023.11,
+    "pagado": true,
+    "asiento": {
+        "numero": 15,
+        "letra": "M",
+        "cargador": false
+    },
+
+    "historial": [
+        {
+        "salida": "Nueva York",
+        "destino": "Chicago",
+        "fecha": "10/01/2021"
+        },
+        {
+        "salida": "Paris",
+        "destino": "Ezeiza",
+        "fecha": "11/08/2022"
+        }
+    ]
+},
+
+{
+    "nombre": "Carlos",
+    "apellido": "Miguel",
+    "edad": "18",
+    "precioAciento": 501.11,
+    "pagado": false,
+    "asiento": {
+        "numero": 15,
+        "letra": "S",
+        "cargador": true
+    },
+
+    "historial": []
+}
+]
